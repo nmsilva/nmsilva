@@ -1,6 +1,6 @@
 # Hi 👋, I'm nmsilva
 
-Python & JavaScript developer from Portugal 🇵🇹 · web, maps & APIs · 🍊
+JavaScript developer from Portugal 🇵🇹 · web, maps & APIs · 🍊
 
 [![Website](https://img.shields.io/badge/Website-nmsilva.netlify.app-00C7B7?logo=netlify&logoColor=white)](https://nmsilva.netlify.app)
 [![X](https://img.shields.io/badge/X-@nmsilva90-000000?logo=x&logoColor=white)](https://x.com/nmsilva90)
@@ -9,15 +9,16 @@ Python & JavaScript developer from Portugal 🇵🇹 · web, maps & APIs · 🍊
 
 ### Tech I reach for
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## 🧑‍💻 About me
 
-- 🐍 I work with Python and Django, especially around APIs and authentication
+- 🟨 I work with JavaScript, building for the web
+- 🐍 I also use Python and Django, especially around APIs and authentication
 - 🗺️ I enjoy web mapping (Google Maps API and friends)
 - 🏢 Currently at **Dragonboat**
 - 📍 Based in Viseu, Portugal
