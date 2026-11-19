@@ -39,9 +39,3 @@ Python & JavaScript developer from Portugal 🇵🇹 · web, maps & APIs · 🍊
 <p align="center">
   <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nmsilva&hide_border=true&area=true" />
 </p>
-
-## 🐍 Contribution snake
-
-<p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/nmsilva/nmsilva/output/github-contribution-grid-snake.svg" />
-</p>
